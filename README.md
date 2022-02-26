@@ -1,3 +1,1 @@
-# git_test
-My first personal repo
-Hello odin
+Welcome to my first repo project: Website creation using HTML CSS and JS.
